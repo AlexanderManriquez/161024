@@ -1,5 +1,6 @@
 
 <script>
+import Tarjeta from './components/Tarjeta.vue';
 import Avatar from "./components/Avatar.vue";
 import EstadoPedido from "./components/EstadoPedido.vue";
 import Usuario from "./components/Usuario.vue";
