@@ -10,6 +10,7 @@ export default {
     Avatar,
     Usuario,
     Tarjeta,
+    Producto,
     EstadoPedido,
   },
   data(){
