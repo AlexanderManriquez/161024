@@ -5,7 +5,7 @@ import Avatar from "./components/Avatar.vue";
 
 export default {
   components: {
-    Tarjeta,
+    Tarjeta, Avatar
   },
   data() {
     return {
